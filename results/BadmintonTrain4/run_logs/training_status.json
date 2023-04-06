@@ -1,0 +1,65 @@
+{
+    "Badminton_Train4": {
+        "checkpoints": [
+            {
+                "steps": 13499926,
+                "file_path": "results\\BadmintonTrain4\\Badminton_Train4\\Badminton_Train4-13499926.onnx",
+                "reward": 1.4785714772130762,
+                "creation_time": 1675857535.531806,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain4\\Badminton_Train4\\Badminton_Train4-13499926.pt"
+                ]
+            },
+            {
+                "steps": 13999933,
+                "file_path": "results\\BadmintonTrain4\\Badminton_Train4\\Badminton_Train4-13999933.onnx",
+                "reward": 1.113084157841785,
+                "creation_time": 1675858305.9420228,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain4\\Badminton_Train4\\Badminton_Train4-13999933.pt"
+                ]
+            },
+            {
+                "steps": 14499856,
+                "file_path": "results\\BadmintonTrain4\\Badminton_Train4\\Badminton_Train4-14499856.onnx",
+                "reward": 1.3160919987692916,
+                "creation_time": 1675859078.2578259,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain4\\Badminton_Train4\\Badminton_Train4-14499856.pt"
+                ]
+            },
+            {
+                "steps": 14999984,
+                "file_path": "results\\BadmintonTrain4\\Badminton_Train4\\Badminton_Train4-14999984.onnx",
+                "reward": 1.2788000456094741,
+                "creation_time": 1675859848.1618948,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain4\\Badminton_Train4\\Badminton_Train4-14999984.pt"
+                ]
+            },
+            {
+                "steps": 15105028,
+                "file_path": "results\\BadmintonTrain4\\Badminton_Train4\\Badminton_Train4-15105028.onnx",
+                "reward": null,
+                "creation_time": 1675860013.6020834,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain4\\Badminton_Train4\\Badminton_Train4-15105028.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 15105028,
+            "file_path": "results\\BadmintonTrain4\\Badminton_Train4.onnx",
+            "reward": null,
+            "creation_time": 1675860013.6020834,
+            "auxillary_file_paths": [
+                "results\\BadmintonTrain4\\Badminton_Train4\\Badminton_Train4-15105028.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1"
+    }
+}

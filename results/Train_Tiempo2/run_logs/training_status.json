@@ -1,0 +1,38 @@
+{
+    "Train_Tiempo": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\Train_Tiempo2\\Train_Tiempo\\Train_Tiempo-0.onnx",
+                "reward": null,
+                "creation_time": 1677235136.0441873,
+                "auxillary_file_paths": [
+                    "results\\Train_Tiempo2\\Train_Tiempo\\Train_Tiempo-0.pt"
+                ]
+            },
+            {
+                "steps": 106582,
+                "file_path": "results\\Train_Tiempo2\\Train_Tiempo\\Train_Tiempo-106582.onnx",
+                "reward": 0.019485294846270013,
+                "creation_time": 1677235697.753472,
+                "auxillary_file_paths": [
+                    "results\\Train_Tiempo2\\Train_Tiempo\\Train_Tiempo-106582.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 106582,
+            "file_path": "results\\Train_Tiempo2\\Train_Tiempo.onnx",
+            "reward": 0.019485294846270013,
+            "creation_time": 1677235697.753472,
+            "auxillary_file_paths": [
+                "results\\Train_Tiempo2\\Train_Tiempo\\Train_Tiempo-106582.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1"
+    }
+}

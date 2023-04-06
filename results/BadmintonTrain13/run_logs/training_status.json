@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1"
+    },
+    "BadmintonTrain13": {
+        "checkpoints": [
+            {
+                "steps": 9499566,
+                "file_path": "results\\BadmintonTrain13\\BadmintonTrain13\\BadmintonTrain13-9499566.onnx",
+                "reward": 4.896296569318683,
+                "creation_time": 1676810566.3412158,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain13\\BadmintonTrain13\\BadmintonTrain13-9499566.pt"
+                ]
+            },
+            {
+                "steps": 9999720,
+                "file_path": "results\\BadmintonTrain13\\BadmintonTrain13\\BadmintonTrain13-9999720.onnx",
+                "reward": 9.005882810143863,
+                "creation_time": 1676811175.363362,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain13\\BadmintonTrain13\\BadmintonTrain13-9999720.pt"
+                ]
+            },
+            {
+                "steps": 10499942,
+                "file_path": "results\\BadmintonTrain13\\BadmintonTrain13\\BadmintonTrain13-10499942.onnx",
+                "reward": 7.937500402331352,
+                "creation_time": 1676811811.4800951,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain13\\BadmintonTrain13\\BadmintonTrain13-10499942.pt"
+                ]
+            },
+            {
+                "steps": 10999626,
+                "file_path": "results\\BadmintonTrain13\\BadmintonTrain13\\BadmintonTrain13-10999626.onnx",
+                "reward": 3.836363840170882,
+                "creation_time": 1676812419.20656,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain13\\BadmintonTrain13\\BadmintonTrain13-10999626.pt"
+                ]
+            },
+            {
+                "steps": 11112384,
+                "file_path": "results\\BadmintonTrain13\\BadmintonTrain13\\BadmintonTrain13-11112384.onnx",
+                "reward": null,
+                "creation_time": 1676812556.2278712,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain13\\BadmintonTrain13\\BadmintonTrain13-11112384.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11112384,
+            "file_path": "results\\BadmintonTrain13\\BadmintonTrain13.onnx",
+            "reward": null,
+            "creation_time": 1676812556.2278712,
+            "auxillary_file_paths": [
+                "results\\BadmintonTrain13\\BadmintonTrain13\\BadmintonTrain13-11112384.pt"
+            ]
+        }
+    }
+}

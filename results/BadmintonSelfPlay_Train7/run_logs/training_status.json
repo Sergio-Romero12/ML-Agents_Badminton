@@ -1,0 +1,66 @@
+{
+    "BadmintonSelfPlay_Train7": {
+        "elo": 1372.2470436398344,
+        "checkpoints": [
+            {
+                "steps": 2499996,
+                "file_path": "results\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7-2499996.onnx",
+                "reward": 0.0032948929159802307,
+                "creation_time": 1676232459.4765859,
+                "auxillary_file_paths": [
+                    "results\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7-2499996.pt"
+                ]
+            },
+            {
+                "steps": 2999986,
+                "file_path": "results\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7-2999986.onnx",
+                "reward": 0.007905138339920948,
+                "creation_time": 1676234003.0957954,
+                "auxillary_file_paths": [
+                    "results\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7-2999986.pt"
+                ]
+            },
+            {
+                "steps": 3499999,
+                "file_path": "results\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7-3499999.onnx",
+                "reward": 0.0,
+                "creation_time": 1676235540.6114798,
+                "auxillary_file_paths": [
+                    "results\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7-3499999.pt"
+                ]
+            },
+            {
+                "steps": 3999962,
+                "file_path": "results\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7-3999962.onnx",
+                "reward": 0.04938271604938271,
+                "creation_time": 1676237014.4135764,
+                "auxillary_file_paths": [
+                    "results\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7-3999962.pt"
+                ]
+            },
+            {
+                "steps": 4379719,
+                "file_path": "results\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7-4379719.onnx",
+                "reward": -0.011111111111111112,
+                "creation_time": 1676238090.7146325,
+                "auxillary_file_paths": [
+                    "results\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7-4379719.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4379719,
+            "file_path": "results\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7.onnx",
+            "reward": -0.011111111111111112,
+            "creation_time": 1676238090.7146325,
+            "auxillary_file_paths": [
+                "results\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7\\BadmintonSelfPlay_Train7-4379719.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1"
+    }
+}

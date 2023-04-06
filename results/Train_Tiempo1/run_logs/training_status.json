@@ -1,0 +1,47 @@
+{
+    "Train_Tiempo": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\Train_Tiempo1\\Train_Tiempo\\Train_Tiempo-0.onnx",
+                "reward": null,
+                "creation_time": 1677232872.0499346,
+                "auxillary_file_paths": [
+                    "results\\Train_Tiempo1\\Train_Tiempo\\Train_Tiempo-0.pt"
+                ]
+            },
+            {
+                "steps": 102726,
+                "file_path": "results\\Train_Tiempo1\\Train_Tiempo\\Train_Tiempo-102726.onnx",
+                "reward": 0.037500000558793545,
+                "creation_time": 1677234502.5457835,
+                "auxillary_file_paths": [
+                    "results\\Train_Tiempo1\\Train_Tiempo\\Train_Tiempo-102726.pt"
+                ]
+            },
+            {
+                "steps": 131802,
+                "file_path": "results\\Train_Tiempo1\\Train_Tiempo\\Train_Tiempo-131802.onnx",
+                "reward": 0.01887755117499504,
+                "creation_time": 1677235037.7209737,
+                "auxillary_file_paths": [
+                    "results\\Train_Tiempo1\\Train_Tiempo\\Train_Tiempo-131802.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 131802,
+            "file_path": "results\\Train_Tiempo1\\Train_Tiempo.onnx",
+            "reward": 0.01887755117499504,
+            "creation_time": 1677235037.7209737,
+            "auxillary_file_paths": [
+                "results\\Train_Tiempo1\\Train_Tiempo\\Train_Tiempo-131802.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1"
+    }
+}

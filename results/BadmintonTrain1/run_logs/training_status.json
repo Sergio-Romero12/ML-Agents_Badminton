@@ -1,0 +1,47 @@
+{
+    "BadmintonTrain1": {
+        "checkpoints": [
+            {
+                "steps": 10394,
+                "file_path": "results\\BadmintonTrain1\\BadmintonTrain1\\BadmintonTrain1-10394.onnx",
+                "reward": 0.02407692307463059,
+                "creation_time": 1674838148.19449,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain1\\BadmintonTrain1\\BadmintonTrain1-10394.pt"
+                ]
+            },
+            {
+                "steps": 5499714,
+                "file_path": "results\\BadmintonTrain1\\BadmintonTrain1\\BadmintonTrain1-5499714.onnx",
+                "reward": null,
+                "creation_time": 1674849650.00882,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain1\\BadmintonTrain1\\BadmintonTrain1-5499714.pt"
+                ]
+            },
+            {
+                "steps": 5562402,
+                "file_path": "results\\BadmintonTrain1\\BadmintonTrain1\\BadmintonTrain1-5562402.onnx",
+                "reward": 25.875,
+                "creation_time": 1674849790.3221953,
+                "auxillary_file_paths": [
+                    "results\\BadmintonTrain1\\BadmintonTrain1\\BadmintonTrain1-5562402.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5562402,
+            "file_path": "results\\BadmintonTrain1\\BadmintonTrain1.onnx",
+            "reward": 25.875,
+            "creation_time": 1674849790.3221953,
+            "auxillary_file_paths": [
+                "results\\BadmintonTrain1\\BadmintonTrain1\\BadmintonTrain1-5562402.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1"
+    }
+}
